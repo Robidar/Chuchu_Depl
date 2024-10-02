@@ -1,11 +1,8 @@
 # Artificial intelligence has the potential to revolutionise cardiovascular health
 
-    paper link to be put here
+    paper link 
 
-## Artherosclerotic cardiovascular disease (ASCVD) risk prediction 
-
-
-Run app.py in terminal to open the web application locally.
+## Atherosclerotic cardiovascular disease (ASCVD) risk prediction 
 
 
-[web app link](https://didactic-tribble-x5wq4gqwj55wh6vr6-8501.app.github.dev/)
+![Survival probability](https://github.com/user-attachments/assets/7654e073-98eb-4213-bc3c-9d853c821085)
