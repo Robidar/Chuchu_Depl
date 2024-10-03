@@ -6,7 +6,7 @@
 
 ## Atherosclerotic cardiovascular disease (ASCVD) risk prediction 
 
-The codes utilised for model development are available on this GitHub repository. Additionally, the repository contains the saved model in *.pkl* format, along with the *app.py* and *requirements.txt* files. The figure below (at the end) shows the survival probabilities of four patients as an example, at 3-year, 5-year, and 10-year intervals.
+The codes utilised for model development are available on this GitHub repository. Additionally, the repository contains the saved model in *.pkl* format, along with the *app.py* and *requirements.txt* files. The figure below (at the end) shows the survival probabilities of five patients as an example, at 3-year, 5-year, and 10-year intervals.
 
 The survival probabilities were generated using our best-performing model (DeepSurv) via "streamlit run app.py" in the terminal to open the web application locally.
 
