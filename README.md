@@ -10,10 +10,10 @@ The codes utilised for model development are available on this GitHub repository
 
 The survival probabilities were generated using our best-performing model (DeepSurv) via "streamlit run app.py" in the terminal to open the web application locally.
 
-To open the web app (app.py) and check the survival probability on a local computer, visit [Streamlit] (https://streamlit.io/cloud) and [GitHub codespaces]https://github.blog/developer-skills/github/a-beginners-guide-to-learning-to-code-with-github-codespaces/
+To open the web app (app.py) and check the survival probability on a local computer, visit [Streamlit](https://streamlit.io/cloud) and [GitHub codespaces](https://github.blog/developer-skills/github/a-beginners-guide-to-learning-to-code-with-github-codespaces/)
 
 
-In brief, follow the following steps to run the web app:
+**In brief, follow the following steps to run the web app:**
 
 - Download or clone the project
   
@@ -50,7 +50,7 @@ In brief, follow the following steps to run the web app:
 
 
 
-**If we consider four patient profiles:**
+**For example, this is Survival probabilities for five patient profiles:**
 
 
 ![Survival probability](https://github.com/user-attachments/assets/7654e073-98eb-4213-bc3c-9d853c821085)
