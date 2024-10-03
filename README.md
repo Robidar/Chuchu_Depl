@@ -42,8 +42,15 @@ In brief, follow the following steps to run the web app:
   streamlit run app.py
 ```
 
-**Now you should access the web app and start putting values and predicting survival probabilities**
+**Now you should access the first page of the web app to start putting values**
 
+
+
+![image](https://github.com/user-attachments/assets/d88446fb-e458-4ee9-afd7-0fddac6457bb)
+
+
+
+**If we consider four patient profiles:**
 
 
 ![Survival probability](https://github.com/user-attachments/assets/7654e073-98eb-4213-bc3c-9d853c821085)
