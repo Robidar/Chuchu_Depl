@@ -38,11 +38,16 @@ To open the web app (app.py) and check the survival probability on a local compu
   ```
 - Execute the app.py file
 
-```
-  streamlit run app.py
-```
+ ```
+ streamlit run app.py
+ ```
 
 **Now, you should go to the first page of the web app to start entering values**
+
+![pointing-down (1)](https://github.com/user-attachments/assets/a716b9ba-8ebc-4d84-97f8-950328a8c4dd)
+
+
+
 
 
 
@@ -50,7 +55,11 @@ To open the web app (app.py) and check the survival probability on a local compu
 
 
 
-**For example, this is Survival probabilities for five patient profiles:**
+**For example, the screenshot below represents the survival probabilities using the five patient profiles**
+
+![pointing-down (1)](https://github.com/user-attachments/assets/c52d344c-ebb4-47f1-bfa5-c42fa6968238)
+
+
 
 
 ![Survival probability](https://github.com/user-attachments/assets/7654e073-98eb-4213-bc3c-9d853c821085)
