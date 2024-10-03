@@ -2,7 +2,7 @@
 
  The dataset for this study is not publicly available, but it can be accessed by requesting it through https://ams.aspree.org/application/home.aspx
  
- [paper link]
+ [paper link to be provided]
 
 ## Atherosclerotic cardiovascular disease (ASCVD) risk prediction 
 
@@ -39,7 +39,7 @@ To open the web app (app.py) and check the survival probability on a local compu
 - Execute the app.py file
 
  ```
- streamlit run app.py
+streamlit run app.py
  ```
 
 **Now, you should go to the first page of the web app to start entering values**
