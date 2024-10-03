@@ -6,13 +6,43 @@
 
 ## Atherosclerotic cardiovascular disease (ASCVD) risk prediction 
 
-The codes utilised for model development are available on this GitHub repository. Additionally, the repository contains the saved model in .pkl format, along with the app.py and requirements.txt files. The figure below (at the end) shows the survival probabilities of four patients as an example, at 3-year, 5-year, and 10-year intervals.
+The codes utilised for model development are available on this GitHub repository. Additionally, the repository contains the saved model in *.pkl* format, along with the *app.py* and *requirements.txt* files. The figure below (at the end) shows the survival probabilities of four patients as an example, at 3-year, 5-year, and 10-year intervals.
 
 The survival probabilities were generated using our best-performing model (DeepSurv) via "streamlit run app.py" in the terminal to open the web application locally.
 
 To open the web app (app.py) and check the survival probability on a local computer, visit https://streamlit.io/cloud and https://github.blog/developer-skills/github/a-beginners-guide-to-learning-to-code-with-github-codespaces/
 
 
+In brief, follow the following steps to run the web app:
+
+- Download or clone the project
+  
+  *The .pkl file, the app.py, and the requirements.text should be downloaded and put in the same folder.*
+
+  Or clone the project as follows
+
+  ```
+  git clone https://github.com/Robidar/Chuchu_Depl.git
+  cd Chuchu_Depl 
+  ```
+  
+- Create a virtual environment
+  
+  ```
+  python -m venv name python==3.7.10
+  ```
+- Install dependencies using
+
+  ```
+  pip install -r requirements.text
+  ```
+- Execute the app.py file
+
+```
+  streamlit run app.py
+```
+
+**Now you should access the web app and start putting values and predicting survival probabilities**
 
 
 
