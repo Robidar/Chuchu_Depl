@@ -2,9 +2,7 @@
 
  The dataset for this study is not publicly available, but it can be accessed by requesting it through https://ams.aspree.org/application/home.aspx
  
- [paper link to be provided]
-
-## Atherosclerotic cardiovascular disease (ASCVD) risk prediction 
+### Atherosclerotic cardiovascular disease (ASCVD) risk prediction 
 
 The codes utilised for model development are available on this GitHub repository. Additionally, the repository contains the saved model in *.pkl* format, along with the *app.py* and *requirements.txt* files. The figure below (at the end) shows the survival probabilities of five patients as an example, at 3-year, 5-year, and 10-year intervals.
 
