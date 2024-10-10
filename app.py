@@ -29,7 +29,7 @@ def load_setting():
         'Non_HDL_Cholesterol': {'values': [0.0, 12.0], 'type': 'slider', 'init_value': 0.0, 'add_after': ' (mmol/L)'},
         'HDL_Cholesterol': {'values': [0.0, 6.0], 'type': 'slider', 'init_value': 0.0, 'add_after': ' (mmol/L)'},
         'Serum creatinine': {'values': [0.0, 20.0], 'type': 'slider', 'init_value': 0.0, 'add_after': ' (mg/dl)'},
-        'Systolic blood pressure': {'values': [0, 200], 'type': 'slider', 'init_value': 0, 'add_after': ' (mmHg)'}
+        'Systolic blood pressure': {'values': [70, 200], 'type': 'slider', 'init_value': 0, 'add_after': ' (mmHg)'}
     }
     input_keys = list(settings.keys())
     return settings, input_keys
