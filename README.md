@@ -51,7 +51,8 @@ streamlit run app.py
 
 
 
-![image](https://github.com/user-attachments/assets/d88446fb-e458-4ee9-afd7-0fddac6457bb)
+![Screenshot 2024-10-10 220554_1st](https://github.com/user-attachments/assets/ae9c0850-b112-4e79-8665-329932b92ceb)
+
 
 
 
@@ -62,4 +63,5 @@ streamlit run app.py
 
 
 
-![Survival probability](https://github.com/user-attachments/assets/7654e073-98eb-4213-bc3c-9d853c821085)
+![Screenshot 2024-10-10 220854_2nd](https://github.com/user-attachments/assets/4c444390-d858-42cf-bdd2-20671320eab9)
+
